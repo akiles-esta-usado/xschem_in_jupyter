@@ -1,0 +1,1 @@
+set XSCHEM_LIBRARY_PATH /foss/pdks/sky130A/libs.tech/xschem:/foss/tools/xschem/share/xschem/xschem_library:/foss/designs/jupyter
